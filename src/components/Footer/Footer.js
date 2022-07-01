@@ -37,3 +37,5 @@ const Footer = () => {
 };
 
 export default Footer;
+
+//font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
