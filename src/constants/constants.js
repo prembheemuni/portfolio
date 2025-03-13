@@ -23,7 +23,7 @@ export const projects = [
       image: 'https://i.im.ge/2022/06/30/uSVHEW.png',
       tags: ['React', 'Redux Toolkit','firebase'],
     source: 'https://github.com/prembheemuni',
-    visit: 'prembheemunidisney.firebaseapp.com',
+    visit: 'https://prembheemunidisney.firebaseapp.com',
     id: 2,
   },
 ];
